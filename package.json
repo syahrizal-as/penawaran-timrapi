@@ -1,0 +1,13 @@
+{
+  "name": "penawaran-timrapi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Penawaran TimRapi untuk Ekauto Group",
+  "scripts": {
+    "build:css": "tailwindcss -i ./styles/tailwind.input.css -o ./tailwind.css --minify"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "4.3.5",
+    "tailwindcss": "4.3.5"
+  }
+}
