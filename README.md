@@ -18,7 +18,9 @@ Kemudian buka `http://localhost:8000`.
 
 - Tampilan responsif untuk desktop dan ponsel.
 - Rincian 12 kelompok fitur dalam panel yang dapat dibuka.
-- Simulasi biaya Rp10.000 per pengguna aktif per bulan.
+- Dua pilihan: langganan Rp10.000 per pengguna aktif per bulan atau jual lepas Rp25–30 juta sekali bayar.
+- Simulasi biaya untuk skema langganan bulanan.
+- Harga final dan cakupan layanan jual lepas mengikuti ruang lingkup yang disepakati.
 - Navigasi bagian dan indikator progres membaca.
 - Tombol cetak / simpan PDF; rincian otomatis dibuka saat mencetak.
 - Tanpa blok isian tanda tangan kedua pihak.
